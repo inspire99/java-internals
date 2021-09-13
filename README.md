@@ -1,4 +1,4 @@
-# java-internals
+# java-internals [work in progress]
 trying to go deeper into java
 
 | **Java SE Version **         | **Version Number** | **Release Date**         | **notes branch**|
